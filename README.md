@@ -1,2 +1,2 @@
 # dash-auth0
-Dash login with Auth0
+Quick integration of Auth0 for Dash logins.
